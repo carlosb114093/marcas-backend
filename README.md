@@ -10,7 +10,7 @@ Requisitos previos
 
  Clona este repositorio:
    
-   git clone https://github.com/tu-repo/brands-api.git
+   git clone https:(https://github.com/carlosb114093/marcas-backend)
    
 Crea y activa un entorno virtual:      
 
