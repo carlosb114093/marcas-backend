@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2b3c4d5e-7777-8888-9999-000011112222",
+        "brand_name": " Merka punto",
+        "brand_owner": "Ana Botina",
+        "date": "2025-08-15",
+        "brand_status": "inactivo"
+    },
+    {
+        "id": "3c4d5e6f-3333-4444-5555-666677778888",
+        "brand_name": "Los Rogriguez de la 24",
+        "brand_owner": "Luis Rodríguez",
+        "date": "2025-08-20",
+        "brand_status": "activo"
+    },
+    {
+        "id": "8ed1f43e-c7fe-4599-8bd3-4d20c8f9b782",
+        "brand_name": "Nueva tienda",
+        "brand_owner": "Pedro Gómez",
+        "date": "2025-08-24",
+        "brand_status": "activo"
+    },
+    {
+        "id": "565a854d-f82f-4cb4-97cd-8826d115d4a5",
+        "brand_name": "test",
+        "brand_owner": "test",
+        "date": "2025-08-29",
+        "brand_status": "En trámite"
+    }
+]
